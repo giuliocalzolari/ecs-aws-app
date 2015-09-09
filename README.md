@@ -84,3 +84,4 @@ healthy again and we repeat the process for the other node.
 This allows us to do a deploy with very little (ideally none) downtime.  You may 
 notice that rollbacks to a previous tag are super fast too.
 f
+f
